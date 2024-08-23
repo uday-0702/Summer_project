@@ -1,0 +1,10 @@
+# Ansys eigenmode data file.  Version 2.0
+# Design:     HFSSDesign1
+# Solution:   Setup1 : LastAdaptive
+# Variation:  "Cj='5pF' con_y='0.55000000000000004mm' con_z='0.050000000000000003mm' connector_y='0.20000000000000001mm' jj_len='0.050000000000000003mm' Lj='10nH' offset='10mm' offset_y='0.5mm' offset_z='-0.10000000000000001mm' pad_x='1mm' pad_y='0.5mm' pad_z='0.5mm' radius='2mm' radius1='1mm' shiftport='25mm' sub_xmax='1mm' thickness='5mm' thivkness='5mm' Xmax='30mm' Ymax='50mm' Zmax='30mm'"
+# --------------------------------------------------------------
+#   Mode                        Frequency (GHz)                Q
+# --------------------------------------------------------------
+       1    3.62267425287 + 3.55448932449E-08 j      5.09591e+07
+       2    4.54460073599 + 2.90815309415E-08 j      7.81355e+07
+       3    7.39555547952 + 0.000423909694857 j          8723.03
